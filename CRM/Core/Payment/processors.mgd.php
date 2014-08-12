@@ -50,7 +50,7 @@ return array(
           'url_site_default' => 'https://testsecureacceptance.cybersource.com/silent/pay',
           'url_api_default' => 'https://testsecureacceptance.cybersource.com/silent/pay',
           'billing_mode' => 4,
-          'payment_type' => 1,
+          'payment_type' => 3,
         ),
     ),
   2 =>
